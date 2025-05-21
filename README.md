@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+
+一个正全力向技术领域转型的数据分析师。如果你也关注 LLM、向量数据库、知识图谱、LangChain 等方向，欢迎交流或合作。
+
 
 <!--
 **Mictorinox/mictorinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
